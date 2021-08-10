@@ -1,4 +1,4 @@
-@import url("//hello.myfonts.net/count/3aa4a7");
+@import url("/dist/fonts/gascogne-serial-extralight-regular.ttf");
 .mfp-bg {
     z-index: 1042;
     overflow: hidden;
@@ -948,8 +948,8 @@ video {
 
 @font-face {
     font-family: GascogneTS-XLight;
-    src: url(../fonts/3AA4A7_0_0.eot);
-    src: url(../fonts/3AA4A7_0_0.eot?#iefix) format("embedded-opentype"), url(../fonts/3AA4A7_0_0.woff2) format("woff2"), url(../fonts/3AA4A7_0_0.woff) format("woff"), url(../fonts/3AA4A7_0_0.ttf) format("truetype")
+    src: url(/dist/fonts/gascogne-serial-extralight-regular.ttf);
+    
 }
 
 body,
